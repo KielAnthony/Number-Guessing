@@ -1,5 +1,5 @@
 // Set a specific secret number for demonstration
-const secretNumber = 37 ;
+const secretNumber = 17 ;
 
 function checkGuess() {
   // Get the user's guess
